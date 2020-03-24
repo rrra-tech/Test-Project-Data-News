@@ -11,7 +11,7 @@
   1月20日~2月9日，共计21天/20th Jan to 9th Feb, totally 21days    
   
   数据来源/Source：  
-  微博Weibo  
+  微博/Weibo  
   
   数据格式/Data form：  
   >1月20日 #101 #钟南山肯定新型冠状病毒肺炎人传人 #5456 #钟南山，肺炎  
@@ -33,7 +33,7 @@
   采集时间/Time：  
   2020年02月28日  
   
-  实验结果/result：  
+  实验结果/Result：  
   以0.8作为分割，验证数据准确性  
   
     Test Loss: 0.27, Test Acc:  93.81%  

@@ -12,10 +12,11 @@
   
   数据格式：  
   >1月20日 #100 #钟南山肯定新型冠状病毒肺炎人传人 #5456 #钟南山，新型冠状病毒  
+  
   每行为一条数据，以"#"为分割的字段，从前往后分别是：发布时间，新闻标题，分类code及名称（见下文），关键词  
   
   分类code与名称：  
-    >100 央视新闻 短视频 short video of CCTV  
+  >100 央视新闻 短视频 short video of CCTV  
     101 央视新闻 直播 live broadcast Of CCTV  
     102 人民日报 短视频 short video of People's Daily  
     103 人民日报 直播 live broadcast Of People's Daily  

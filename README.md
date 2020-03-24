@@ -2,11 +2,14 @@
   ===  
   
   研究主题/Topic：  
-  探讨短视频与直播的共生关系  
+  探讨短视频与直播的共生关系/Relationship between short video and live broadcast    
+  
   研究对象/Object：  
-  央视新闻、人民日报、新华视点   
+  央视新闻、人民日报、新华视点/Top3 Media in China     
+  
   采集范围/Range：  
-  1月20日~2月9日，共计21天  
+  1月20日~2月9日，共计21天/20th Jan to 9th Feb, totally 21days    
+  
   数据来源/Source：  
   微博Weibo  
   
@@ -26,8 +29,10 @@
   
   数据规模/Data scale：  
   共1308条，分布于6个分类中  
+  
   采集时间/Time：  
   2020年02月28日  
+  
   实验结果/result：  
   以0.8作为分割，验证数据准确性  
   

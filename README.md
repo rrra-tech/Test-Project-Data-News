@@ -16,7 +16,7 @@
   每行为一条数据，以"#"为分割的字段，从前往后分别是：发布时间，分类code及名称（见下文），新闻标题，收看人数，关键词  
   
   分类code与名称：  
-  >101 央视新闻 短视频 short video of CCTV  
+    101 央视新闻 短视频 short video of CCTV  
     102 央视新闻 直播 live broadcast of CCTV  
     103 人民日报 短视频 short video of People's Daily  
     104 人民日报 直播 live broadcast of People's Daily  
@@ -29,11 +29,11 @@
   2020年02月  
   实验结果：  
   以0.8作分割，验证数据准确性  
-  test result:0.8  
   
-     code | mounts | views   
-     101 | 370 | 333641   
-     102 | 130 | 102140   
-     103 | 318 | 323752   
-     104 | 54 | 35507   
+    test result:0.8  
+    code | mounts | views   
+    101 | 370 | 333641   
+    102 | 130 | 102140   
+    103 | 318 | 323752   
+    104 | 54 | 35507   
     

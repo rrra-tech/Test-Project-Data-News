@@ -28,6 +28,8 @@
   采集时间：  
   2020年02月  
   实验结果：  
-  >test result:0.5  
-        date    code    mount 
-        1.20    101      7
+  以0.8作分割，验证数据准确性
+  >test result:0.8  
+        date    code    mounts   views  
+        1.20    101       7      15723  
+        1.21    101       5      4820  

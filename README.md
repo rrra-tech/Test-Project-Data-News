@@ -17,9 +17,9 @@
   
   分类code与名称：  
   >101 央视新闻 短视频 short video of CCTV  
-    102 央视新闻 直播 live broadcast Of CCTV  
+    102 央视新闻 直播 live broadcast of CCTV  
     103 人民日报 短视频 short video of People's Daily  
-    104 人民日报 直播 live broadcast Of People's Daily  
+    104 人民日报 直播 live broadcast of People's Daily  
     105 新华视点 短视频 short video of Xinhua News Agency  
     106 新华视点 直播 live broadcast of Xinhua News Agency  
   
@@ -33,3 +33,4 @@
         date    code    mounts   views  
         1.20    101       7      15723  
         1.21    101       5      4820  
+        1.22    101       6      7937  
